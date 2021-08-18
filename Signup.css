@@ -1,0 +1,74 @@
+.div1{
+	background: #56ab2f;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border-radius: 25px;
+	text-align:center; 
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border:2px solid grey;
+}
+.box{
+	background-color: rgb(240, 223, 239);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 7px;
+	border:2px solid black;
+	margin-left: 0px;
+}
+.sub{
+	background-color:rgb(240, 223, 239);
+	margin-left: 40%;	
+	border-radius: 5px;
+	margin-top: 15px;
+	padding:10px;
+}
+.header{
+	display: inline;
+	font-size: 40px;
+}
+.header-log{
+	margin-left: 5%;
+	text-decoration: none;
+	font-size: 25px;
+color:rgb(40,120,146);
+font-weight: bold;
+}
+.header-home{
+	margin-left: 20px;
+	text-decoration: none;
+}
+.signup{
+	margin-left: 350px;
+	font-family: sans-serif;
+	color: rgb(240, 22, 131);
+}
+.model{
+	border:2px solid black;
+	margin-left: 200px;
+	width:30%;
+	box-shadow:5px 10px 8px #888888;
+}
+form{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.signin{
+	margin-left: 330px;
+	margin-top: 70%;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgb(240, 22, 131);
+	text-decoration: none;
+}
+#eye{
+	margin-left: -20px;
+	cursor: pointer;
+	background-color: rgb(240, 223, 239);
+}
+body{
+background: #70e1f5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffd194, #70e1f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}

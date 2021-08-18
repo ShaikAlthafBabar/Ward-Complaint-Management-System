@@ -1,0 +1,56 @@
+.div1{
+	background: #56ab2f;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	background-color: rgb(164, 235, 52);
+	border-radius: 25px;
+	text-align:center; 
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border:2px solid grey;
+}
+.box{
+	background-color: rgb(130, 217, 215);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border:2px solid black;
+	margin-left: 0px;
+}
+.header{
+	display: inline;
+	font-size: 40px;
+}
+.header-home{
+	font-size: 30px;
+	margin-left: 20px;
+	text-decoration: none;
+}
+.signin{
+	margin-left: 350px;
+	font-family: sans-serif;
+	color: rgb(230, 177, 34);
+}
+.model{
+	border:2px solid grey;
+	margin-left: 200px;
+	width:30%;
+	box-shadow:5px 10px 8px #888888;
+}
+form{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.sub{
+background-color:rgb(130, 217, 215);
+	margin-left: 40%;	
+	border-radius: 5px;
+	margin-top: 15px;
+	padding:10px;
+}
+body{
+background: #70e1f5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffd194, #70e1f5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffd194, #70e1f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
